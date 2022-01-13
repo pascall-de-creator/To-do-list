@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ToDoList</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="shortcut icon" href="image/favicon.ico" type="image/x-icon">
+      </head>
+      <body>
+        <div id="ToDoList">
+          <div id="mask">
+                <div id="alert">
+                <div>
+                <input type="text" placeholder="Enter Task Here..." id="taskInput"></input>
+                <input type="time" id="taskTime"></input>
+                </div>
+                <button id="add" onclick="addItem()">Add</button>
+              </div>
+          </div>
+          <button id="addBtn" onclick="showPrompt()">+</button>
+          <div id="tasks">
+          </div>
+        </div>
+        <script src="script.js"></script>
+      </body>
+</html>
