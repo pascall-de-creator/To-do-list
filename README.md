@@ -1,7 +1,7 @@
 # Odin TodoList
 
 [![powered-by-PDe-C.png](https://i.postimg.cc/TwtnTtkG/powered-by-PDe-C.png)](https://postimg.cc/zbRyjFZP)
-[![todolistpv.png](https://i.postimg.cc/SR6PPHLS/todolistpv.png)](https://postimg.cc/y3NngQrt)
+[![todolistpv.png](https://i.postimg.cc/SR6PPHLS/todolistpv.png)](https://pascall-to-do-list.netlify.app)
 
 Website @[netlify todolist](https://pascall-to-do-list.netlify.app)
 
